@@ -13,7 +13,7 @@ class SshController extends BaseController
         return '';
     }
 
-    public function ssh2()
+    public function ssh3()
     {
         return '';
     }
