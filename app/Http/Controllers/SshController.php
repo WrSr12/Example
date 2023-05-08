@@ -8,5 +8,8 @@ use Illuminate\Routing\Controller as BaseController;
 
 class SshController extends BaseController
 {
-    use AuthorizesRequests, ValidatesRequests;
+    public function sshFromGitLaravel2()
+    {
+        return '';
+    }
 }
