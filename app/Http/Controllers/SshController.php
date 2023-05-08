@@ -17,4 +17,9 @@ class SshController extends BaseController
     {
         return '';
     }
+
+    public function method2()
+    {
+        return '';
+    }
 }
