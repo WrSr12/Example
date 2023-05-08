@@ -8,17 +8,7 @@ use Illuminate\Routing\Controller as BaseController;
 
 class SshController extends BaseController
 {
-    public function sshFromGitLaravel2()
-    {
-        return '';
-    }
-
-    public function ssh3()
-    {
-        return '';
-    }
-
-    public function method()
+    public function sshFromGitLaravel()
     {
         return '';
     }
